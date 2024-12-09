@@ -1,0 +1,67 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMPYanvgaB5MNP2l2UFua1d",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/SoroushSoleymani/engg680_2024_fall/blob/main/ENG680_Project\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Comparative Analysis of Machine Learning Models for Predicting Blood Glucose Levels in Diabetic Patients\n",
+        "\n",
+        "Group Number\t7\n",
+        "\n",
+        "We, the undersigned, certify that this is our own work, which has been done expressly for this course, either without the assistance of any other party or where appropriate we have acknowledged the work of others. Further, we have read and understood the section in the university calendar on plagiarism/cheating/other academic misconduct and we are aware of the implications.\n",
+        "Name\tSurname\tContribution\tSignature\n",
+        "\n",
+        "Soroush\tSoleymani (Team Leader)\t16.6%\tS.S     23.11.2024\n",
+        "\n",
+        "Armin\tAliyari\t16.6%\tA.A    23.11.2024\n",
+        "\n",
+        "Fabiha\tIslam\t16.6%\tF.I       23.11.2024\n",
+        "\n",
+        "Aparna\tDas\t16.6%\tA.D     23.11.2024\n",
+        "\n",
+        "Samra\tPierre\t16.6%\tS.P      23.11.2024\n",
+        "\n",
+        "Kaushini\tChandrachoodamani\t16.6%\tK.C     23.11.2024\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "0s0rjQrMYQW-"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "294oboT3YGRc"
+      },
+      "outputs": [],
+      "source": []
+    }
+  ]
+}
